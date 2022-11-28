@@ -1,2 +1,2 @@
 # project-akhir-semester-java
-proyek akhir semester pemrograman dasar dalam bahasa java
+proyek akhir semester dasar dalam bahasa java
