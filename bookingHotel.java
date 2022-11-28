@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class pemesananTiket&ManajemenKamarHotel {
+public class bookingHotel {
 
     public static Scanner scan = new Scanner(System.in); // public scanner
 
